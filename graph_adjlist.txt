@@ -1,0 +1,9 @@
+#/Users/robertsinkovits/anaconda3/lib/python3.6/site-packages/ipykernel_launcher.py -f /Users/robertsinkovits/Library/Jupyter/runtime/kernel-0a8e825a-d267-4dcb-bd7b-8667b06c1063.json
+# GMT Sat Feb 20 04:41:54 2021
+# 
+A B C D E F
+B E
+C F
+D
+E F
+F
